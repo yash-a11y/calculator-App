@@ -1,4 +1,4 @@
 # calculator-App
 
-this App cover simple calculator and BMI calculator functionality.it perform basic calculation task.this App build-up using various layout and MENU fundamentls.
+This App cover simple calculator and BMI calculator functionality. It perform basic calculation tasks. This App build-up using various layout and MENU fundamentls.
 
